@@ -2,7 +2,7 @@
 //  DetailsView.swift
 //  CustomTableView
 //
-//  Created by Md. Faysal Ahmed on 16/9/22.
+//  Created by Abul Kashem on 16/9/22.
 //
 
 import UIKit
