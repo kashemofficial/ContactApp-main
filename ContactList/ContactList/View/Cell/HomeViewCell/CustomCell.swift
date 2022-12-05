@@ -2,7 +2,7 @@
 //  CustomCell.swift
 //  CustomTableView
 //
-//  Created by Md. Faysal Ahmed on 15/9/22.
+//  Created by  Abul Kashem on 15/9/22.
 //
 
 import UIKit
